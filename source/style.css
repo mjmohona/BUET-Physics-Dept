@@ -64,14 +64,14 @@ Table of contents
 	--font-default: 'Open Sans', sans-serif;
 	--font-heading: 'Poppins', sans-serif;
 	--fontawesome: "Font Awesome 5 Pro";
-	--black: #000000;
-	--dark: #002147;
+	--black: #ffffff;
+	--dark: #7f070a;
 	--dark-secondary: #022b6d;
 	--white: #ffffff;
-	--color-primary: #ffb606;
+	--color-primary: #7f070a;
 	--color-secondary: #ff9800;
 	--color-secondary: #0b57e3;
-	--color-heading: #0e0e0e;
+	--color-heading: #000000;
 	--color-paragraph: #666666;
 	--box-shadow-primary: -1px 3px 10px 0 rgba(0, 0, 0, 0.6);
 	--box-shadow-secondary: 0 10px 30px 0 rgba(44, 130, 237, 0.4);
@@ -615,8 +615,9 @@ input {
 }
 
 .bg-dark {
-  background: #002147  none repeat scroll 0 0 !important;
+  background: #80070a none repeat scroll 0 0 !important;
 }
+
 
 .bg-gradient {
   background: linear-gradient(90deg, rgba(0,33,71,1) 0%, rgba(14,32,173,1) 100%);

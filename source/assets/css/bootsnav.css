@@ -956,13 +956,14 @@ body.on-side nav.navbar::after {
 	text-align: center;
 	top: 35px;
 	z-index: 2;
-	color: var(--black);
+	color: var(--color-heading);
+
 }
 
 .side .close-side i {
     position: relative;
     left: -1px;
-    color: var(--color-heading);
+	color: var(--black);
     font-weight: 100;
     font-size: 28px;
 }
