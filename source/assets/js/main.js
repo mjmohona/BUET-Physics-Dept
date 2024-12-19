@@ -286,7 +286,7 @@
         /* ==================================================
             # Clients Review Carousel
          ===============================================*/
-        $('.clients-review-carousel').owlCarousel({
+        $('.Teachers-review-carousel').owlCarousel({
             loop: false,
             margin: 30,
             nav: true,
@@ -313,7 +313,7 @@
         /* ==================================================
             # Clients Carousel
          ===============================================*/
-        $('.clients-items').owlCarousel({
+        $('.Teachers-items').owlCarousel({
             loop: false,
             margin: 30,
             nav: false,
