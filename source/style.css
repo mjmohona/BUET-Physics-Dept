@@ -906,8 +906,8 @@ nav.navbar.bootsnav.navbar-transparent.pad-top {
 }
 
 .top-bar-area.bg-theme .address-info li {
-  border-right: 1px solid #002147;
-  color: #002147;
+  border-right: 1px solid #000000;
+  color: #000000;
 }
 
 .top-bar-area.address-one-lines .address-info li {
@@ -986,7 +986,7 @@ nav.navbar.bootsnav.navbar-transparent.pad-top {
 }
 
 .top-bar-area.bg-theme .menu li::before {
-  background: #002147;
+  background: #7f070a;
 }
 
 .top-bar-area .menu li:first-child {
@@ -1245,7 +1245,7 @@ body, .banner-area,
 }
 
 .banner-area .carousel-control.shadow::after {
-  background: #002147 none repeat scroll 0 0;
+  background: #7f070a none repeat scroll 0 0;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
@@ -1486,7 +1486,7 @@ body, .banner-area,
 }
 
 .banner-area.text-dark p {
-  color: #002147;
+  color: #000000;
 }
 
 .banner-area form {
